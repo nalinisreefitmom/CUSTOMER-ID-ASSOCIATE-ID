@@ -109,7 +109,7 @@
 <p>&copy;2023, Nalini Sree | All rights reserved.</p>
   <div class="container">
     <h1 style="text-align:center">Herbalife Independent Distributor Tutorial Video</h1>
-    <p style="text-align:center">As a Herbalife independent distributor, I have created a tutorial video to assist our valued customers in creating a custom ID, which can be accessed via the unlisted YouTube link provided below <a href:http="https://shorturl.at/djsFY">HOME PAGE</a></p>
+    <p style="text-align:center">As a Herbalife independent distributor, I have created a tutorial video to assist our valued customers in creating a custom ID, which can be accessed via the unlisted YouTube link provided below <a href="https://shorturl.at/djsFY">HOME PAGE</a></p>
     <div class="video-container">
       <iframe id="video1" src="https://www.youtube.com/embed/iJsfp0IybBw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
