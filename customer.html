@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>Herbalife Independent Distributor Tutorial Video</title>
