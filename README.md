@@ -1,6 +1,8 @@
-
+<!DOCTYPE html>
 <html>
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Herbalife Independent Distributor Tutorial Video</title>
   <style>
     body {
@@ -26,6 +28,11 @@
     iframe {
       width: 100%;
       height: 500px;
+    }
+    @media screen and (max-width: 768px) {
+      iframe {
+        height: 300px;
+      }
     }
     button {
       background-color: #4CAF50;
